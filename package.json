@@ -1,0 +1,30 @@
+{
+  "name": "knockout-arrows-loader",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veikedo/knockout-arrows-loader.git"
+  },
+  "keywords": [
+    "knockout",
+    "ko",
+    "arrow",
+    "es6",
+    "template",
+    "loader"
+  ],
+  "author": "Veikedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veikedo/knockout-arrows-loader/issues"
+  },
+  "homepage": "https://github.com/Veikedo/knockout-arrows-loader#readme",
+  "dependencies": {
+    "knockout-arrows": "0.0.2"
+  }
+}
